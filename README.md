@@ -1,0 +1,2 @@
+# Whats-My-Pokemon
+This program takes your age, the day, and the month you were born and turns that number into a single integer, it then uses that integer to call a pokemon name from a list by index, that pokemon name will be used to call an image of the pokemon from the resources. with all this information it will display your pokemon image, tell you the pokedex number of your pokemon, and tell you the name of your pokemon.
