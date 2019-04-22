@@ -1,0 +1,3311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Whats My Pokemon
+</name>
+</assembly>
+<members>
+<member name="T:Whats_My_Pokemon.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources._0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.abomasnow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.abra">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.absol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.accelgor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.aerodactyl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.aggron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.aipom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.alakazam">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.alomomola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.altaria">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ambipom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.amoonguss">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ampharos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.anorith">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.arbok">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.arcanine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.arceus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.archen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.archeops">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ariados">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.armaldo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.aron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.articuno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.audino">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.axew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.azelf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.azumarill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.azurill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bagon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.baltoy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.banette">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.barboach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.basculin_red_striped">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bastiodon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bayleef">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.beartic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.beautifly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.beedrill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.beheeyem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.beldum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bellossom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bellsprout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bibarel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bidoof">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bisharp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.blastoise">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.blaziken">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.blissey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.blitzle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.boldore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bonsly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bouffalant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.braviary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.breloom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bronzong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bronzor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.budew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.buizel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.bulbasaur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.buneary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.burmy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.butterfree">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cacnea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cacturne">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.camerupt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.carnivine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.carracosta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.carvanha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cascoon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.castform">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.caterpie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.celebi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chandelure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chansey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.charizard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.charmander">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.charmeleon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chatot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cherrim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cherubi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chikorita">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chimchar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chimecho">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chinchou">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.chingling">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cinccino">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.clamperl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.claydol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.clefable">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.clefairy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cleffa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cloyster">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cobalion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cofagrigus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.combee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.combusken">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.conkeldurr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.corphish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.corsola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cottonee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cradily">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cranidos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.crawdaunt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cresselia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.croagunk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.crobat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.croconaw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.crustle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cryogonal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cubchoo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cubone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.cyndaquil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.darkrai">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.darmanitan_standard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.darumaka">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.deerling">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.deino">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.delcatty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.delibird">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.deoxys_normal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dewgong">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dewott">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dialga">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.diglett">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ditto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dodrio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.doduo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.donphan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dragonair">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dragonite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.drapion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dratini">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.drifblim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.drifloon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.drilbur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.drowzee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.druddigon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ducklett">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dugtrio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dunsparce">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.duosion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.durant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dusclops">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dusknoir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.duskull">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dustox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.dwebble">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.eelektrik">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.eelektross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.eevee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ekans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.electabuzz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.electivire">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.electrike">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.electrode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.elekid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.elgyem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.emboar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.emolga">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.empoleon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.entei">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.escavalier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.espeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.excadrill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.exeggcute">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.exeggutor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.exploud">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.farfetchd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.fearow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.feebas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.feraligatr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ferroseed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ferrothorn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.finneon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.flaaffy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.flareon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.floatzel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.flygon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.foongus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.forretress">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.fraxure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.frillish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.froslass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.furret">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gabite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gallade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.galvantula">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.garbodor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.garchomp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gardevoir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gastly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gastrodon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.genesect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gengar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.geodude">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gible">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gigalith">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.girafarig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.giratina_altered">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.glaceon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.glalie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.glameow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gligar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gliscor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gloom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.golbat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.goldeen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.golduck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.golem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.golett">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.golurk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gorebyss">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gothita">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gothitelle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gothorita">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.granbull">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.granbull1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.graveler">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.grimer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.grotle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.groudon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.grovyle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.growlithe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.grumpig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gulpin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gurdurr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.gyarados">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.happiny">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hariyama">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.haunter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.haxorus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.heatmor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.heatran">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.heracross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.herdier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hippopotas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hippowdon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hitmonchan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hitmonlee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hitmontop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ho_oh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.honchkrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hoothoot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hoppip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.horsea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.houndoom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.houndour">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.huntail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hydreigon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.hypno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.igglybuff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.illumise">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ImagePlaceholder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.infernape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ivysaur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jellicent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jigglypuff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jirachi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jolteon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.joltik">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jumpluff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.jynx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kabuto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kabutops">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kadabra">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kakuna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kangaskhan">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.karrablast">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kecleon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.keldeo_ordinary">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kingdra">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kingler">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kirlia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.klang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.klink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.klinklang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.koffing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.krabby">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kricketot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kricketune">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.krokorok">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.krookodile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kyogre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.kyurem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lairon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lampent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.landorus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.landorus_incarnate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lanturn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lapras">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.larvesta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.larvitar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.latias">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.latios">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.leafeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.leavanny">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ledian">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ledyba">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lickilicky">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lickitung">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.liepard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lileep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lilligant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lillipup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.linoone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.litwick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lombre">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lopunny">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lotad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.loudred">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lucario">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ludicolo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lugia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lumineon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.lunatone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.luvdisc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.luxio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.luxray">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.machamp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.machoke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.machop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magby">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magcargo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magikarp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magmar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magmortar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magnemite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magneton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.magnezone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.makuhita">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mamoswine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.manaphy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mandibuzz">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.manectric">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mankey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mantine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mantyke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.maractus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mareep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.marill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.marowak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.marshtomp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.masquerain">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mawile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.medicham">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.meditite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.meganium">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.meloetta_aria">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.meowth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mesprit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.metagross">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.metang">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.metapod">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mewtwo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mienfoo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mienshao">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mightyena">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.milotic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.miltank">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mime_jr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.minccino">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.minun">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.misdreavus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mismagius">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.moltres">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.monferno">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mothim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mr_mime">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.mudkip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.muk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.munchlax">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.munna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.murkrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.musharna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.natu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidoking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidoqueen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidoran_f">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidoran_m">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidorina">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nidorino">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nincada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ninetales">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ninjask">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.noctowl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nosepass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.numel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.nuzleaf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.octillery">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.oddish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.omanyte">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.omastar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.onix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.oshawott">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pachirisu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.palkia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.palpitoad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.panpour">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pansage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pansear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.paras">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.parasect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.patrat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pawniard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pelipper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.persian">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.petilil">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.phanpy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.phione">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pichu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pidgeot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pidgeotto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pidgey">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pidove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pignite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pikachu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.piloswine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pineco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pinsir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.piplup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.plusle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.Pokedex">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.politoed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.poliwag">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.poliwhirl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.poliwrath">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ponyta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.poochyena">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.porygon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.porygon_z">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.porygon2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.primeape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.prinplup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.probopass">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.psyduck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.pupitar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.purrloin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.purugly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.quagsire">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.quilava">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.qwilfish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.raichu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.raikou">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ralts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rampardos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rapidash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.raticate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rattata">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rayquaza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.regice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.regigigas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.regirock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.registeel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.relicanth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.remoraid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.reshiram">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.reuniclus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rhydon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rhyhorn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rhyperior">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.riolu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.roggenrola">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.roselia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.roserade">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rotom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.rufflet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sableye">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.salamence">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.samurott">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sandile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sandshrew">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sandslash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sawk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sawsbuck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sceptile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.scizor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.scolipede">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.scrafty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.scraggy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.scyther">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seadra">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seaking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sealeo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seedot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seismitoad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sentret">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.serperior">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.servine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.seviper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sewaddle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sharpedo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shaymin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shaymin_land">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shedinja">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shelgon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shellder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shellos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shelmet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shieldon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shiftry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shinx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shroomish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shuckle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.shuppet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sigilyph">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.silcoon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.simipour">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.simisage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.simisear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.skarmory">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.skiploom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.skitty">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.skorupi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.skuntank">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slaking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slakoth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slowbro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slowking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slowpoke">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.slugma">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.smeargle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.smoochum">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sneasel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.snivy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.snorlax">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.snorunt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.snover">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.snubbull">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.solosis">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.solrock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spearow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spheal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spinarak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spinda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spiritomb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.spoink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.squirtle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.stantler">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.staraptor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.staravia">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.starly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.starmie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.staryu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.steelix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.stoutland">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.stunfisk">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.stunky">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sudowoodo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.suicune">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sunflora">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.sunkern">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.surskit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swablu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swadloon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swalot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swampert">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swanna">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swinub">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.swoobat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.taillow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tangela">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tangrowth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tauros">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.teddiursa">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tentacool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tentacruel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tepig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.terrakion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.throh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.thundurus_incarnate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.timburr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tirtouga">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.togekiss">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.togepi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.togetic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.torchic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.torkoal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tornadus_incarnate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.torterra">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.totodile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.toxicroak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tranquill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.trapinch">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.treecko">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tropius">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.trubbish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.turtwig">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tympole">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tynamo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.typhlosion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tyranitar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.tyrogue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.umbreon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.unfezant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.unown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.ursaring">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.uxie">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vanillish">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vanillite">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vanilluxe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vaporeon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.venipede">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.venomoth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.venonat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.venusaur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vespiquen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vibrava">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.victini">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.victreebel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vigoroth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vileplume">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.virizion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.volbeat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.volcarona">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.voltorb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vullaby">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.vulpix">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wailmer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wailord">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.walrein">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wartortle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.watchog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.weavile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.weedle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.weepinbell">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.weezing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.whimsicott">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.whirlipede">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.whiscash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.whismur">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wigglytuff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wingull">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wobbuffet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.woobat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wooper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wormadam_plant">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wurmple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.wynaut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.xatu">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.yamask">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.yanma">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.yanmega">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zangoose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zapdos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zebstrika">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zekrom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zigzagoon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zoroark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zorua">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zubat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Whats_My_Pokemon.My.Resources.Resources.zweilous">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
